@@ -16,3 +16,12 @@ npm i @prisma/client
 docker run --name api-solid-pg -e POSTGRESQL_USERNAME=docker -e POSTGRESQL_PASSWORD=docker -e POSTGRESQL_DATABASE=apisolid -p 5432:5432 bitnami/postgresql
 npx prisma migrate dev // rodar migrations cria as tabelas
 npx prisma studio // abre interface
+npm i bcryptjs
+npm i @types/bcryptjs -d
+npm i vitest vite-tsconfig-paths -D
+npm i @vitest/coverage-c8
+npm i -D @vitest/ui
+
+fluxo criação nova funcionalidade
+¹ - use-case
+² - 
