@@ -21,7 +21,8 @@ npm i @types/bcryptjs -d
 npm i vitest vite-tsconfig-paths -D
 npm i @vitest/coverage-c8
 npm i -D @vitest/ui
+npm i dayjs
 
 fluxo criação nova funcionalidade
 ¹ - use-case
-² - 
+² -
